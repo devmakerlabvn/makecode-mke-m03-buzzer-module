@@ -1,5 +1,6 @@
 {
     "name": "[MakeCode] MKE-M03 Buzzer Module",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
